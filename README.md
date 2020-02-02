@@ -3,7 +3,7 @@
 虽然我们不是病毒专家，但是作为科研工作者，我们希望看到的是真实的数据，严禁的证明和科学的解决方案。
 更重要的是，我希望至少我们有自己寻找答案的能力。
 
-向大家安利一位我一直非常崇拜的PI， Pardis Sabeti。 
+向大家安利一位我一直非常喜欢的PI， Pardis Sabeti。 
 关于她的介绍，wiki 更为详细
 https://en.wikipedia.org/wiki/Pardis_Sabeti
 
