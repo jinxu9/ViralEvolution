@@ -11,9 +11,8 @@ https://en.wikipedia.org/wiki/Pardis_Sabeti
 
 https://www.sabetilab.org/
 
-下面选取了Sabeti 实验室关于感染性疾病中，病毒演化等方面的几篇文章，供大家参考
-希望同学们能都从中有所收获。
-
+下面选取了Sabeti 实验室关于感染性疾病中，病毒演化等方面的几篇文章，供大家参考。
+希望同学们在假期里，能够中有所收获。
 
 1. 病毒演化研究：
 
